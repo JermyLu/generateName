@@ -7,5 +7,3 @@
   utils.py:工具类，包括wordToTensor、inputToTensor等；可添加自定义工具函数
   Net.py：神经网络类，为最简单的RNN；可自定义神经网络
   Main.py：训练 和 评估
-
-参考文献：https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
